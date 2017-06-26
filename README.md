@@ -1,4 +1,4 @@
-# ATmega128 Programming
+# AVR
 This repository is about study of Atmega128 programming.  
 I code these on CodeVision. So if you run these, you may have to edit them little bit.
 
